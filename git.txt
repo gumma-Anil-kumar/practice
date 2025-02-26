@@ -1,0 +1,4 @@
+git log gives list of commits
+tracked files if the files are in staged area otherwise untracted files
+git remote add origin https://github.com/gumma-Anil-kumar/practice.git
+to change branch we use git branch -M main
